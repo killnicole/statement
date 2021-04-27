@@ -1,0 +1,5 @@
+baseurl: "/statement"
+theme: tale
+feed:
+  path: feed.xml
+header_pages: ['']
