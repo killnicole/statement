@@ -1,0 +1,5 @@
+baseurl: ""
+theme: minima
+feed:
+  path: feed.xml
+header_pages: ['']
